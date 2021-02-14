@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Bent\\Downloads\\IUP\\**"
+            ],
+            "compilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            
+        }
+    ],
+    "version": 4
+}
